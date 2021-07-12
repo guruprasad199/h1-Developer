@@ -17,11 +17,13 @@ function HeroSection() {
                     GET STARTED
                 </button>
                 </Link>
+                <Link to="/products">
                 <button className='btn'
                 buttonStyle='btn--primary'
                 buttonSize="btn--large">
                     WATCH MORE <i className="far fa-play-circle" />
                 </button>
+                </Link>
             </div>
         </div>
     )

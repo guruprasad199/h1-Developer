@@ -60,17 +60,52 @@ function Navbar() {
               </Link>
             </li>
 
+            {/* <li className='nav-item'>
+              <Link
+                to='/delete'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+               Delete
+              </Link>
+            </li>
+ */}
+
+
             <li className='nav-item'>
               <Link
                 to='/signup'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-               <button style={{padding:"10px"}}>
+               <button style={{padding:"5px"}}>
                SignUp
                  </button> 
               </Link>
             </li>
+
+
+
+            {/* <li className='nav-item'>
+              <Link
+                to='/delete'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+               <button style={{padding:"10px"}}>
+               Delete
+                 </button> 
+              </Link>
+            </li>
+ */}
+
+
+
+
+
+
+
+
 
 
             {/* <li>

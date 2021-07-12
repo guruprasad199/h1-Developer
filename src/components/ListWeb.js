@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import  Card from "react-bootstrap/Card";
 import Button from 'react-bootstrap/Button';
-// import './Footer.css';
+import './Footer.css';
 // import Footer from '../Footer';
 // import Footer from './components/pages/Footer'
 
