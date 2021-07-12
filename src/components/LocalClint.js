@@ -32,7 +32,7 @@ export default class LocalClint extends Component {
 
       <Col md={3}>
       <Card style={{ border: "1px solid black",  margin:"10px"}}>
-        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/tejalgharte.jpg" alt="Card image cap" />
+        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/tejalgharte.JPG" alt="Card image cap" />
         <CardBody>
           <CardTitle tag="h5">Tejal Gharte</CardTitle>
           <CardSubtitle tag="h6" className="mb-2 text-muted">~Software Engineer @Atos-Syntel</CardSubtitle>
@@ -47,7 +47,7 @@ export default class LocalClint extends Component {
 
       <Col md={3}>
       <Card style={{ border: "1px solid black",  margin:"10px"}}>
-        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/bipasapatra.jpg" alt="Card image cap" />
+        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/bipasapatra.JPG" alt="Card image cap" />
         <CardBody>
           <CardTitle tag="h5">Bipasa Patra</CardTitle>
           <CardSubtitle tag="h6" className="mb-2 text-muted">~HOD @G.H.Raisoni College of Engineering</CardSubtitle>
@@ -67,7 +67,7 @@ export default class LocalClint extends Component {
       <Row style={{padding:"10px"}}>
       <Col md={3}>
       <Card style={{ border: "1px solid black",  margin:"10px"}}>
-        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/shubhamlodhe.jpg" alt="Card image cap" />
+        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/shubhamlodhe.JPG" alt="Card image cap" />
         <CardBody>
           <CardTitle tag="h5">Shubham Londhe</CardTitle>
           <CardSubtitle tag="h6" className="mb-2 text-muted">~Senior Web Developer/ Trainer @Vamstar</CardSubtitle>
@@ -83,7 +83,7 @@ export default class LocalClint extends Component {
 
       <Col md={3}>
       <Card style={{ border: "1px solid black",  margin:"10px"}}>
-        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/Capture.jpg" alt="Card image cap" />
+        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/Capture.JPG" alt="Card image cap" />
         <CardBody>
           <CardTitle tag="h5">Piyush Baviskar</CardTitle>
           <CardSubtitle tag="h6" className="mb-2 text-muted">~Student @ CDAC Mumbai</CardSubtitle>
@@ -95,7 +95,7 @@ export default class LocalClint extends Component {
 
       <Col md={3}>
       <Card style={{ border: "1px solid black",  margin:"10px"}}>
-        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/ashwini.jpg" alt="Card image cap" />
+        <CardImg style={{width:"100px", height:"100px", borderRadius:"70%" , padding:"-20px" , marginLeft:"60px", lineHeight:"100px"}} top width="100%" src="images/ashwini.JPG" alt="Card image cap" />
         <CardBody>
           <CardTitle tag="h5">Ashwini Sawant</CardTitle>
           <CardSubtitle tag="h6" className="mb-2 text-muted">~Assistant System Engineer @Tata Consultancy Services(TCS)</CardSubtitle>
