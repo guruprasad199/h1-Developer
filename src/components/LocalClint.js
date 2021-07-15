@@ -12,7 +12,7 @@ export default class LocalClint extends Component {
     render() {
         return (
             <>
-             <h1 style={{textAlign:"center", color:"green"}}>Our Happy Clints</h1>
+             <h1 style={{textAlign:"center", color:"green"}}>Our Happy Clients</h1>
          <div style={{margin:"0px", padding:"30px" }}>
    <Container >       
     <Row style={{padding:"10px"}}>
